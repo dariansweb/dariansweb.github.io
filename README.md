@@ -3,6 +3,6 @@
 # Linux Enthusiast
 # Technology Slave
 # Programming Linguist
-# Analying Yourself
+# Analyzing Yourself
 
 # /* Never forget comments */
