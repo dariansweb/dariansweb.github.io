@@ -2,5 +2,13 @@ theme: jekyll-theme-hacker
 ---
 permalink: /404.html
 ---
-permalink: /index.html
----
+lsi: false
+safe: true
+source: ./
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
