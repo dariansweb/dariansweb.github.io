@@ -21,8 +21,6 @@
 title: My Web
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-Underneath the colors and geometry is an artist gluing together strings and things so the interaction seamlessly flows; 
-lighting beacons along the way to distract the wanderer onto the safe and relaxing path.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dariansweb
