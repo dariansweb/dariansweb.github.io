@@ -24,4 +24,4 @@ If you're interested in Linux certifications, be sure to check out my blog and s
 
 ## Contact Me
 
-If you have any questions or feedback, feel free to contact me at [YOUR EMAIL ADDRESS]. Thank you for visiting my site and happy learning!
+If you have any questions or feedback, feel free to contact me at my web site contact form. Thank you for visiting my site and happy learning!
