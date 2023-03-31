@@ -1,6 +1,6 @@
-Linux Essentials Certification Practice Exam
-Topic 1: The Linux Community and a Career in Open Source
-Fill in the blanks
+# Linux Essentials Certification Practice Exam
+## Topic 1: The Linux Community and a Career in Open Source
+### Fill in the blanks
 
     The Linux kernel was created by Linus Torvalds.
 
