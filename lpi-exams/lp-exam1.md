@@ -27,5 +27,7 @@
 10. The ____________ is a text-based interface used to interact with the operating system and execute commands.
 
 
+## [Answers](lp-exam1-1.md)
+
 ### End of Exam.
 
