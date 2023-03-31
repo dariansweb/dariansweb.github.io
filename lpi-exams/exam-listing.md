@@ -6,6 +6,7 @@
 - Linux Professional Institute (LPI)
   - Linux Essentials
     - Entry-level certification covering basic knowledge of the Linux operating system and open source software
+      - [Practice Exam 1](lp-exam1.md)
   - LPIC-1: Linux Administrator
     - Entry-level certification covering basic system administration tasks and Linux command line interface
   - LPIC-2: Linux Engineer
