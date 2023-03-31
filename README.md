@@ -14,7 +14,7 @@ There are several types of Linux certifications available, ranging from beginner
 - Red Hat Certified System Administrator (RHCSA)
 - Red Hat Certified Engineer (RHCE)
 - Linux Professional Institute Certification (LPIC)
-  - [Link text](/lpi-exams/exam-listing.md)Practice Exams
+  - [Practice Exams](/lpi-exams/exam-listing.md)
 - SUSE Certified Administrator (SCA)
 - Oracle Linux Administrator Certified Associate (OCA)
 - Oracle Linux System Administrator Certified Professional (OCP)
