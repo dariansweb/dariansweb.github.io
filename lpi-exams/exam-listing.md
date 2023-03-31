@@ -1,3 +1,6 @@
+# Practice Exams
+## LPI
+### Listing 
 - Linux Professional Institute (LPI)
   - Linux Essentials
     - Entry-level certification covering basic knowledge of the Linux operating system and open source software
@@ -21,4 +24,6 @@
     - Intermediate-level certification covering more advanced administration and networking tasks on SUSE Linux Enterprise systems
   - SUSE Certified Architect (SCA+)
     - Advanced-level certification covering expertise in designing and implementing complex solutions using SUSE Linux Enterprise technologies
+
+### End Listing
 
