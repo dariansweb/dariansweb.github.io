@@ -11,13 +11,13 @@ Linux is a popular open-source operating system used in various industries, incl
 There are several types of Linux certifications available, ranging from beginner to advanced levels. Some of the most popular Linux certifications include:
 
 - CompTIA Linux+
-  - [Practice Exams](/comptia-exams/exam-listing.md)
+  - [Practice Exams](/comptia-exams/exam-listings.md)
 - Red Hat Certified
-  - [Practice Exams](/rh-exams/exam-listing.md)
+  - [Practice Exams](/rh-exams/exam-listings.md)
 - Linux Professional Institute Certification (LPIC)
-  - [Practice Exams](/lpi-exams/exam-listing.md)
+  - [Practice Exams](/lpi-exams/exam-listings.md)
 - SUSE Certified 
-  - [Practice Exams](/SUSE/exam-listing.md)
+  - [Practice Exams](/SUSE/exam-listings.md)
 - Oracle Linux 
 
 ## Linux Certification Blogs
