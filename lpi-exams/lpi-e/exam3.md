@@ -2,7 +2,7 @@
 
 # Linux Essentials Certification Practice Exam
 
-## Topic: Major Open Source Applications
+## Topic: MAwareness of major applications as well as their uses and development.
 
 ### Fill in the blanks
 
