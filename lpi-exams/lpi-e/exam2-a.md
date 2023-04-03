@@ -7,24 +7,32 @@
 1.    Answer: Apache HTTP Server
         - Explanation: The Apache HTTP Server is a popular open-source web server that can be installed on Linux and other platforms. It is often used to host and serve web pages.
 
-2.    Answer: open-source suite
+2.    Answer: office
         - Explanation: LibreOffice is an open-source office suite that can run on Linux as well as other platforms. It includes programs for word processing, spreadsheets, presentations, and more.
 
-3.    The Free Software Foundation is a non-profit organization that promotes the use and development of free and open source software.
+3.    Answer: Git
+        - Explanation: Git is a widely used open-source version control system that allows developers to manage source code and collaborate on software projects.
 
-4.    Open source software is software whose source code is freely available for anyone to view, modify, and distribute.
+4.    Answer: MySQL
+        - Explanation: MySQL is a popular open-source database management system that is widely used on Linux as well as other platforms. It is often used for web applications and other software projects that require database management.
 
-5.    The GNU General Public License is a popular open source license that requires any modified version of the software to also be open source.
+5.    Answer: Django
+        - Explanation: Django is a popular open-source web application framework that can be used to develop dynamic websites and web applications. It is often used for web development projects on Linux and other platforms.
 
-6.    The Linux Professional Institute is a non-profit organization that offers vendor-neutral Linux certifications.
+6.    Answer: Kubernetes
+        - Explanation: Kubernetes is an open-source container orchestration platform that is widely used for managing containerized applications. It provides a powerful set of tools for deploying, scaling, and managing containerized applications.
 
-7.    The Linux Essentials certification is an entry-level certification that covers basic knowledge of the Linux operating system and its community.
+7.    Answer: gcc
+        - Explanation: The gcc command is a popular compiler that is used to compile C and C++ source code into executable programs on Linux. It is often used by developers to build software applications.
 
-8.    Red Hat is a company that provides enterprise Linux solutions and certifications, including the popular Red Hat Certified System Administrator (RHCSA) and Red Hat Certified Engineer (RHCE) certifications.
+8.   Answer: Python
+        - Explanation: Python is an open-source programming language that is widely used for web development, data analysis, and machine learning. It is known for its ease of use and versatility, and is supported by a large and active community of developers.
 
-9.    The Linux Foundation is a non-profit organization that provides resources and support for the Linux community and other open source projects.
+9.   Answer: Nginx
+        - Explanation: Nginx is a popular open-source web server that can be installed on Linux and other platforms. It is known for its high performance and scalability, and is often used to serve static content and as a reverse proxy for web applications.
 
-10.    The command line interface (CLI) is a text-based interface used to interact with the operating system and execute commands.
+10.  Answer: sed
+        - Explanation: The sed utility is a powerful command-line tool for manipulating text files and streams on Linux. It can be used to perform a wide range of text processing tasks, such as searching and replacing text, filtering and transforming data, and more. It is often used in shell scripts and other automation tasks.
 
 ### End of Exam.
 
