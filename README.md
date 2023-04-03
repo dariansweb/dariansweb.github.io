@@ -19,7 +19,8 @@ There are several types of Linux certifications available, ranging from beginner
 - SUSE Certified 
   - [Practice Exams](/suse-exams/exam-listings.md)
 - Oracle Linux 
-
+  - [Practice Exams](/oracle-exams/exam-listings.md)
+  - 
 ## Linux Certification Blogs
 
 On my external site, [Certification Methods](https://www.certificationmethods.com/), I regularly post articles and tutorials related to Linux certifications. These blog posts cover various topics, including exam preparation tips, study resources, and real-world scenarios.
