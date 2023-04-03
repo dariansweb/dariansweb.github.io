@@ -1,6 +1,6 @@
 
 # Practice Exams
-## LPI
+## CompTia
 ### Listing 
 
 - CompTia
