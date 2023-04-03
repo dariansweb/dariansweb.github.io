@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="../../style.css">
+<link rel="stylesheet" type="text/css" href="../../../style.css">
 
 # Linux Professional Institute LPIC-1
 ## Topic 1: 101.1 Determine and configure hardware settings
