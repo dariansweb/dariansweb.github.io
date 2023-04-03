@@ -6,7 +6,7 @@
 
 1. Answer: lsusb
 
-Explanation: The lsusb command is used to view the currently connected USB devices. The output of this command lists all USB devices on the system, including their vendor and product IDs, and other information.
+    - Explanation: The lsusb command is used to view the currently connected USB devices. The output of this command lists all USB devices on the system, including their vendor and product IDs, and other information.
 
 2. Answer: default
 
