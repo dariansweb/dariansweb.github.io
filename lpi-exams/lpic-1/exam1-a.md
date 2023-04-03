@@ -4,7 +4,7 @@
 ## Topic 1: 101.1 Determine and configure hardware settings
 ### Fill in the blanks
 
-1. Answer: ```[bash]lsusb```
+1. Answer: `bash``lsusb```
 
     - Explanation: The lsusb command is used to view the currently connected USB devices. The output of this command lists all USB devices on the system, including their vendor and product IDs, and other information.
 
