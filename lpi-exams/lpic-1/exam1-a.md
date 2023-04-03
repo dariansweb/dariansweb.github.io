@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="../../style.css">
 
 # Linux Essentials Certification Practice Exam
-## Topic 1: The Linux Community and a Career in Open Source
+## Topic 1: 101.1 Determine and configure hardware settings
 ### Fill in the blanks
 
 1. Answer: lsusb
