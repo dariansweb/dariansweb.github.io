@@ -2,7 +2,7 @@
 
 # Linux Essentials Certification Practice Exam
 
-## Topic 1: The Linux Community and a Career in Open Source
+## Topic: Knowledge of Linux development and major distributions.
 
 ### Fill in the blanks
 
