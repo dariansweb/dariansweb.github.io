@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="../style.css">
 
 # Practice Exams
-## LPI
+## SUSE
 ### Listing 
 
 - SUSE
