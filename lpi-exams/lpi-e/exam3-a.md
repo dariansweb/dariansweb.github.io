@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="../../../style.css">
 
 # Linux Essentials Certification Practice Exam
-## Topic: Major Open Source Applications
+## Topic: Awareness of major applications as well as their uses and development.
 ### Fill in the blanks
 
 1.    Answer: b) dpkg
