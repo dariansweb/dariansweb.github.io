@@ -14,7 +14,6 @@ There are several types of Linux certifications available, ranging from beginner
   - [Practice Exams](/rh-exams/exam-listing.md)  (Coming soon!)
 - Linux Professional Institute Certification (LPIC)
   - [Practice Exams](/lpi-exams/exam-listing.md)
-    - CompTIA Linux+
     - CompTIA Linux+ Powered by LPI:
       - This certification is a partnership between CompTIA and the Linux Professional Institute (LPI) and validates the same skills as the CompTIA Linux+ certification, but also includes LPI exam objectives.
 - SUSE Certified
