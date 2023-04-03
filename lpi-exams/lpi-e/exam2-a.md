@@ -22,7 +22,7 @@
 6.    Answer: Kubernetes
         - Explanation: Kubernetes is an open-source container orchestration platform that is widely used for managing containerized applications. It provides a powerful set of tools for deploying, scaling, and managing containerized applications.
 
-7.    Answer: gcc
+7.    Answer: ```gcc```
         - Explanation: The gcc command is a popular compiler that is used to compile C and C++ source code into executable programs on Linux. It is often used by developers to build software applications.
 
 8.   Answer: Python
@@ -31,7 +31,7 @@
 9.   Answer: Nginx
         - Explanation: Nginx is a popular open-source web server that can be installed on Linux and other platforms. It is known for its high performance and scalability, and is often used to serve static content and as a reverse proxy for web applications.
 
-10.  Answer: sed
+10.  Answer: ```sed```
         - Explanation: The sed utility is a powerful command-line tool for manipulating text files and streams on Linux. It can be used to perform a wide range of text processing tasks, such as searching and replacing text, filtering and transforming data, and more. It is often used in shell scripts and other automation tasks.
 
 ### End of Exam.
