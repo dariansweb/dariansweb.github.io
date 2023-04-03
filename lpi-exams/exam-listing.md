@@ -14,6 +14,9 @@
     - Intermediate-level certification covering more advanced system administration and networking tasks
   - LPIC-3: Linux Enterprise Professional Certification
     - Advanced-level certification covering enterprise-level Linux administration and implementation
-
+  - LPI Security Essentials (LPI-010)
+    - LPI Security Essentials certification is designed to test an individual's knowledge and understanding of basic IT security concepts. It is intended for individuals who want to start a career in IT security or for those who want to enhance their security knowledge in their current job roles. 
+  - LPI Web Essentials (LPI-020)
+    - LPI Web Essentials certification is designed to test an individual's understanding of web-related technologies. It is intended for individuals who want to start a career in web development or for those who want to enhance their web development knowledge in their current job roles.
 ### End Listing
 
