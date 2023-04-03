@@ -9,6 +9,7 @@
       - [Practice Exam 1](lp-exam1.md)
   - LPIC-1: Linux Administrator
     - Entry-level certification covering basic system administration tasks and Linux command line interface
+      - [Practice Exam 1](lpic-1/exam1.md)    
   - LPIC-2: Linux Engineer
     - Intermediate-level certification covering more advanced system administration and networking tasks
   - LPIC-3: Linux Enterprise Professional Certification
