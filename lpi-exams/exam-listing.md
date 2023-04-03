@@ -8,6 +8,7 @@
     - Entry-level certification covering basic knowledge of the Linux operating system and open source software
       - [Practice Exam 1](lpi-e/exam1.md)
       - [Practice Exam 2](lpi-e/exam2.md)
+      - [Practice Exam 2](lpi-e/exam3.md)
   - LPIC-1: Linux Administrator
     - Entry-level certification covering basic system administration tasks and Linux command line interface
       - [Practice Exam 1](lpic-1/exam1.md)    
