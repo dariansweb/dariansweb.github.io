@@ -5,8 +5,7 @@
 ### Fill in the blanks
 
 1.    Answer: Apache HTTP Server
-
-    - Explanation: The Apache HTTP Server is a popular open-source web server that can be installed on Linux and other platforms. It is often used to host and serve web pages.
+        - Explanation: The Apache HTTP Server is a popular open-source web server that can be installed on Linux and other platforms. It is often used to host and serve web pages.
 
 2.    The Linux operating system is open source, which means its source code is available to everyone to view, modify and distribute.
 
