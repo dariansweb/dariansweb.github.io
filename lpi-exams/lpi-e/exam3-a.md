@@ -2,11 +2,11 @@
 <link rel="stylesheet" type="text/css" href="../../../style.css">
 
 # Linux Essentials Certification Practice Exam
-## Topic: Awareness of major applications as well as their uses and development.
+## Topic: Major Open Source Applications
 ### Fill in the blanks
 
 1.    Answer: b) dpkg
-    - Explanation: dpkg is the primary package management tool used by Debian-based systems, including Ubuntu. It is responsible for installing, removing, and managing individual packages.
+        - Explanation: dpkg is the primary package management tool used by Debian-based systems, including Ubuntu. It is responsible for installing, removing, and managing individual packages.
 
 2.    Answer: a) apt-get install
     - Explanation: The apt-get command is used to manage packages on Debian-based systems. The install option is used to install a new package, and the package name should be provided after the install option.
