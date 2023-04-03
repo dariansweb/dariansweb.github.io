@@ -12,5 +12,7 @@
     - This certification validates the skills required to install, configure, and manage Oracle Linux systems in single-server environments.
   - Oracle Certified Professional MySQL Database Administrator:
     - While not strictly a Linux certification, this certification covers the skills required to install and configure MySQL on Linux systems.
-# End Listing
+
+
+### End Listing
 
