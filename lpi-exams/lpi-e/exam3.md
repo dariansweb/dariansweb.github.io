@@ -2,7 +2,7 @@
 
 # Linux Essentials Certification Practice Exam
 
-## Topic: MAwareness of major applications as well as their uses and development.
+## Topic: Awareness of major applications as well as their uses and development.
 
 ### Fill in the blanks
 
