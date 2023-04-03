@@ -25,4 +25,5 @@
 10.    Which command can be used to view the ACPI table information on a Linux system?
 
 ### End of Exam.
+## [Answers](exam1-a.md)
 
