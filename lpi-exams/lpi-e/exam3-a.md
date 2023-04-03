@@ -12,7 +12,7 @@
         - Explanation: The apt-get command is used to manage packages on Debian-based systems. The install option is used to install a new package, and the package name should be provided after the install option.
 
 3.    Answer: c) rpm
-    - Explanation: RPM (Red Hat Package Manager) is the primary package management tool used by Red Hat-based systems, including CentOS and Fedora. It is responsible for installing, removing, and managing individual packages.
+        - Explanation: RPM (Red Hat Package Manager) is the primary package management tool used by Red Hat-based systems, including CentOS and Fedora. It is responsible for installing, removing, and managing individual packages.
 
 4.    Answer: d) yum install
         - Explanation: The yum command is used to manage packages on Red Hat-based systems. The install option is used to install a new package, and the package name should be provided after the install option.
