@@ -4,7 +4,7 @@
 
 ## Topic: Awareness of major applications as well as their uses and development.
 
-### Fill in the blanks
+### Multiple Choice
 
 1. Which of the following Linux package management tools is used by Debian-based systems?
     - ```rpm```
