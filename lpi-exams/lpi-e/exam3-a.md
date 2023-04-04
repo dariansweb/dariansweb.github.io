@@ -3,7 +3,7 @@
 
 # Linux Essentials Certification Practice Exam
 ## Topic: Awareness of major applications as well as their uses and development.
-### Fill in the blanks
+### Multiple Choice
 
 1.    Answer: b) ```dpkg```
         - Explanation: dpkg is the primary package management tool used by Debian-based systems, including Ubuntu. It is responsible for installing, removing, and managing individual packages.
