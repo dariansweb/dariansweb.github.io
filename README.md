@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-# Welcome to My Linux Certification Blog!
+# Welcome to My Linux Certification Blog
 
 My name is Darian Ross and I'm a Linux enthusiast and certification blogger. On this site, I share my knowledge and experience in the Linux world and help others achieve their Linux certification goals.
 
