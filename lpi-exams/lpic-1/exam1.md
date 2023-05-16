@@ -8,7 +8,7 @@
 
 2.    Which configuration file contains the kernel boot parameters in a Debian-based Linux system?
 
-3.    hich command can be used to view the CPU information on a Linux system?
+3.    Which command can be used to view the CPU information on a Linux system?
 
 4.    Which command can be used to view the PCI devices installed on a Linux system?
 
